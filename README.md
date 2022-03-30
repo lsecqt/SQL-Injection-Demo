@@ -1,1 +1,1 @@
-# SQLi-C--PostgreSQL-demo
+# SQLi-.NET-PostgreSQL-demo
