@@ -1,0 +1,55 @@
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\bin\Debug\net6.0\appsettings.json
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\bin\Debug\net6.0\SQLi Demo.staticwebassets.runtime.json
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\bin\Debug\net6.0\SQLi Demo.exe
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\bin\Debug\net6.0\SQLi Demo.deps.json
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\bin\Debug\net6.0\SQLi Demo.runtimeconfig.json
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\bin\Debug\net6.0\SQLi Demo.dll
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\bin\Debug\net6.0\SQLi Demo.pdb
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\obj\Debug\net6.0\SQLi Demo.csproj.AssemblyReference.cache
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\obj\Debug\net6.0\SQLi Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\obj\Debug\net6.0\SQLi Demo.AssemblyInfoInputs.cache
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\obj\Debug\net6.0\SQLi Demo.AssemblyInfo.cs
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\obj\Debug\net6.0\SQLi Demo.csproj.CoreCompileInputs.cache
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\obj\Debug\net6.0\SQLi Demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\obj\Debug\net6.0\SQLi Demo.RazorAssemblyInfo.cache
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\obj\Debug\net6.0\SQLi Demo.RazorAssemblyInfo.cs
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\obj\Debug\net6.0\scopedcss\bundle\SQLi Demo.styles.css
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\obj\Debug\net6.0\scopedcss\projectbundle\SQLi Demo.bundle.scp.css
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\obj\Debug\net6.0\SQLi Demo.dll
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\obj\Debug\net6.0\refint\SQLi Demo.dll
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\obj\Debug\net6.0\SQLi Demo.pdb
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\obj\Debug\net6.0\SQLi Demo.genruntimeconfig.cache
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\obj\Debug\net6.0\ref\SQLi Demo.dll
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\bin\Debug\net6.0\Humanizer.dll
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\bin\Debug\net6.0\Npgsql.dll
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\lsec\source\repos\SQLi Demo\SQLi Demo\obj\Debug\net6.0\SQLi Demo.csproj.CopyComplete
